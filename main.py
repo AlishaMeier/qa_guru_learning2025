@@ -9,4 +9,4 @@ def test_google_search_negative(window_size):
 
 
 def test_conflict_git(yandex_config):
-    browser.open('https://ya.ru/memes')
+    browser.open('https://ya.ru/cry_videos')
